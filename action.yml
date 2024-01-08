@@ -1,4 +1,4 @@
-name: 'Hello World action'
+name: 'Hello World action by chola'
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
@@ -11,3 +11,6 @@ outputs:
 runs:
   using: 'node20'
   main: 'index.js'
+branding:
+  icon: 'cast'
+  color: 'yellow'
