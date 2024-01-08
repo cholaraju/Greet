@@ -1,4 +1,4 @@
-name: 'Hello World action by chola'
+name: 'Hello World action by Chola'
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
